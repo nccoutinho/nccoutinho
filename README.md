@@ -5,15 +5,11 @@
 <p align="center"><strong>Currently navigating the dynamic field of Data Science at the University of British Columbia. My mission? To decipher the language of data and extract meaningful insights.</strong>strong></p>
 
 <p align="center">
-<a href="https://linkedin.com/in/nataliecoutinho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nataliecoutinho" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/nataliecoutinho" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.nataliecoutinho.com" target="_blank"><img height="25" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </p>
+  
 
 ## Toolbox 🧠
 
 ### Languages
-<div class="tabs">
-  <input type="radio" id="tab-r" name="tab" checked>
-  <label for="tab-r">R</label>
-
-  <input type="radio" id="tab-python" name="tab">
-  <label for="tab-python">Python</label>
