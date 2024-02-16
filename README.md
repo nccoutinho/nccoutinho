@@ -14,5 +14,5 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=ffdd54&label=) ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=R&logoColor=white&label=) ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoCo
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=ffdd54&label=) ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=R&logoColor=white&label=) ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&label=)
 
