@@ -9,6 +9,8 @@
   <a href="https://www.nataliecoutinho.com" target="_blank"><img height="25" src="https://img.shields.io/badge/Portfolio-0077cc?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </p>
 
+![Data Analyst](https://img.shields.io/badge/Data_Analyst-25A0DA?style=for-the-badge)
+
 
 ## Toolbox 🧠
 
@@ -29,6 +31,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-388E3C?style=for-the-badge&logo=seaborn)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
 ![Dash](https://img.shields.io/badge/Dash-03C4A1?style=for-the-badge&logo=dash)
+![Bokeh](https://img.shields.io/badge/Bokeh-3A5199?style=for-the-badge&logo=bokeh)
 
 ### Tools
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
@@ -52,4 +55,6 @@
 ![Business Analysis](https://img.shields.io/badge/Business_Analysis-9552EA?style=for-the-badge)
 ![Statistical Modelling](https://img.shields.io/badge/Statistical_Modelling-9C55AE?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-4285F4?style=for-the-badge)
+
+## Learning Expedition 💡
 
