@@ -13,9 +13,9 @@
 ## Toolbox 🧠
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badg&logo=Python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badg&logo=R&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%230082A1.svg?style=for-the-badg&logo=MySQL&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=Python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%230082A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ### Tools
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
@@ -23,4 +23,5 @@
 ![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 ![Microsoft SQL SERVER](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
 
