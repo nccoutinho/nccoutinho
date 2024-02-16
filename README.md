@@ -4,6 +4,10 @@
 
 <p align="center"><strong>Currently navigating the dynamic field of Data Science at the University of British Columbia. My mission? To decipher the language of data and extract meaningful insights.</strong>strong></p>
 
+<p align="center">
+<a href="https://linkedin.com/in/nataliecoutinho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nataliecoutinho" height="30" width="40" /></a>
+</p>
+
 ## Toolbox 🧠
 
 ### Languages
