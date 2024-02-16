@@ -41,7 +41,7 @@
 ![Microsoft Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-3F51B5?style=for-the-badge&logo=IBM&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google-workspace&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/G-Suite-4285F4?style=for-the-badge&logo=google-workspace&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
