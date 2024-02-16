@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**nccoutinho/nccoutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Natalie, a passionate data enthusiast delving into the intricacies of the data universe.
+
+Currently navigating the dynamic field of Data Science at the University of British Columbia. My mission? To decipher the language of data and extract meaningful insights.
 
 Here are some ideas to get you started:
 
