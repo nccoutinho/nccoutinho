@@ -13,9 +13,9 @@
 ## Toolbox 🧠
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=R&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%230082A1.svg?style=flat-square&logo=MySQL&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badg&logo=Python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badg&logo=R&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%230082A1.svg?style=for-the-badg&logo=MySQL&logoColor=white)
 
 ### Tools
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
