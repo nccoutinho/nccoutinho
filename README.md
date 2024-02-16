@@ -55,4 +55,8 @@
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-4285F4?style=for-the-badge)
 
 ## Learning Expedition 💡
+![NLP](https://img.shields.io/badge/NLP-Exploring-%23ffcc00?style=for-the-badge)
+![Advanced ML](https://img.shields.io/badge/Advanced_ML-Learning-%230099cc?style=for-the-badge)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-Discovering-%2300cc99?style=for-the-badge)
+![Big Data Analytics](https://img.shields.io/badge/Big_Data_Analytics-Exciting-%23ff6699?style=for-the-badge)
 
