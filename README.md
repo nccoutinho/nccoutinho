@@ -9,8 +9,6 @@
   <a href="https://www.nataliecoutinho.com" target="_blank"><img height="25" src="https://img.shields.io/badge/Portfolio-0077cc?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </p>
 
-![Data Analyst](https://img.shields.io/badge/Data_Analyst-25A0DA?style=for-the-badge)
-
 
 ## Toolbox 🧠
 
