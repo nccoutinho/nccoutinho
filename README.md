@@ -7,5 +7,9 @@
 ## Toolbox 🧠
 
 ### Languages
-- Python
-- R
+<div class="tabs">
+  <input type="radio" id="tab-r" name="tab" checked>
+  <label for="tab-r">R</label>
+
+  <input type="radio" id="tab-python" name="tab">
+  <label for="tab-python">Python</label>
