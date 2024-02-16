@@ -25,6 +25,18 @@
 ![Microsoft SQL SERVER](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Microsoft Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![TABLEAU](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Google Slides](https://img.shields.io/badge/Google_Slides-4285F4?style=for-the-badge&logo=google-slides&logoColor=white)
+![Google Forms](https://img.shields.io/badge/Google_Forms-4285F4?style=for-the-badge&logo=google-forms&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-3F51B5?style=for-the-badge&logo=IBM&logoColor=white)
+
+### Technical Skills
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-25A0DA?style=for-the-badge)
+![Data Mining](https://img.shields.io/badge/Data_Mining-FFD43B?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF914D?style=for-the-badge)
+![ETL (Extract Transform Load)](https://img.shields.io/badge/ETL-47A744?style=for-the-badge)
+![Business Analysis](https://img.shields.io/badge/Business_Analysis-9552EA?style=for-the-badge)
+![Statistical Modelling](https://img.shields.io/badge/Statistical_Modelling-9C55AE?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-4285F4?style=for-the-badge)
 
