@@ -53,6 +53,8 @@
 ![Business Analysis](https://img.shields.io/badge/Business_Analysis-9552EA?style=for-the-badge)
 ![Statistical Modelling](https://img.shields.io/badge/Statistical_Modelling-9C55AE?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-4285F4?style=for-the-badge)
+![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-%23ff9966?style=for-the-badge)
+![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-%236633cc?style=for-the-badge)
 
 ## Learning Expedition 💡
 ![NLP](https://img.shields.io/badge/NLP-%23ffcc00?style=for-the-badge)
