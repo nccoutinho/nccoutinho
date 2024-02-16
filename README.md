@@ -44,6 +44,8 @@
 ![Google Slides](https://img.shields.io/badge/Google_Slides-4285F4?style=for-the-badge&logo=google-slides&logoColor=white)
 ![Google Forms](https://img.shields.io/badge/Google_Forms-4285F4?style=for-the-badge&logo=google-forms&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-3F51B5?style=for-the-badge&logo=IBM&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Technical Skills
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-25A0DA?style=for-the-badge)
